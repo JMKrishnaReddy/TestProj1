@@ -1,1 +1,4 @@
-//test
+
+class test {
+    //test
+}
